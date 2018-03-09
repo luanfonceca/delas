@@ -43,14 +43,14 @@ textarea {
  */
 
 ::-moz-selection {
-  background: #f2c2c9;
-  color: #a4003a;
+  background: #FF5E00;
+  color: #fff;
   text-shadow: none;
 }
 
 ::selection {
-  background: #16a085;
-  color: #a4003a;
+  background: #FF5E00;
+  color: #fff;
   text-shadow: none;
 }
 
@@ -286,7 +286,7 @@ h1, h2, h3, h4, h5, h6 {
   color:#ffffff;
   margin-top: 50px;
   /*letter-spacing: 8px;*/
-  font-size: 100px;
+  font-size: 10vw;
   /*font-weight: bold;*/
   text-shadow: 2px 2px 2px #000;
 }
@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5, h6 {
   color:#ffffff;
   padding-bottom: 30px;
   letter-spacing: 8px;
-  font-size: 60px;
+  font-size: 6vw;
   font-weight: bold;
   text-shadow: 2px 2px 2px #000;
 }
